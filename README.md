@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikasdewan
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on Frontend Development
 - 📫 How to reach me https://www.instagram.com/its_vikas03/
 - 😄 Pronouns: Vikas Dewangan
