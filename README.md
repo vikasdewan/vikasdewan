@@ -1,10 +1,8 @@
-          
-                    <b> 𝐇𝐞𝐲 𝐈 𝐚𝐦 𝐯𝐢𝐤𝐚𝐬 </b>
+           
 
 
 
 
-- 👋 Hi, I’m @vikasdewan
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on Frontend Development
