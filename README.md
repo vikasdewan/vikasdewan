@@ -35,5 +35,11 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
+ 
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 ###
 
