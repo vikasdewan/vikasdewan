@@ -66,7 +66,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vikasdewan/vikasdewan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vikasdewan/vikasdewan/.github/workflow/snake.yml" alt="Snake animation" />
 
 ###
 
