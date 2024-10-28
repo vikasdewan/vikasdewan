@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **NodeJs,ExpressJs**
 
-- 👯 I’m looking to collaborate on [My Porfolio Website](https://github.com/vikasdewan/portfolio)
+- 👯 I’m looking to collaborate on [My Porfolio Website](https://github.com/vikasdewan/InstaMitr-Backend)
 
-- 🤝 I’m looking for help with [Simon_Says_Game](https://github.com/vikasdewan/Simon_says_Game)
+- 🤝 I’m looking for help with [Simon_Says_Game](https://github.com/vikasdewan/Simon_says_Game) 
 
 - 👨‍💻 All of my projects are available at [https://portfolioofvikasdewan.netlify.app/](https://portfolioofvikasdewan.netlify.app/)
 
