@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [InstaMitr](https://github.com/vikasdewan/InstaMitr-Backend)
 
-- 🌱 I’m currently learning **NodeJs,ExpressJs**
+- 🌱 I’m currently learning **ReactJs,NextJs**
 
-- 👯 I’m looking to collaborate on [My Porfolio Website](https://github.com/vikasdewan/InstaMitr-Backend)
+- 👯 I’m looking to collaborate on [My InstaMitr WebApp](https://github.com/vikasdewan/InstaMitr-Backend)
 
 - 🤝 I’m looking for help with [Simon_Says_Game](https://github.com/vikasdewan/Simon_says_Game) 
 
