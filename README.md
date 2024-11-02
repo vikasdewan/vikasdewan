@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Dewangan</h1>
-<h3 align="center">A passionate Web developer from India, Eager to Master MERN Stack</h3>
+<h3 align="center">A passionate Web developer(MERN Stack) from India || DSA in Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasdewan&label=Profile%20views&color=0e75b6&style=flat" alt="vikasdewan" /> </p>
 
