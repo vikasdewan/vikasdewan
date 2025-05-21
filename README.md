@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikasdewan" alt="vikasdewan" /></a> </p>
 
-- 🔭 I’m currently working on [InstaMitr](https://github.com/vikasdewan/instaMitr-Frontend)
+- 🔭 I’m currently working on My New PortFolio Website
 
-- 🌱 I’m currently learning **ReactJs,NextJs**
+- 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on [Portfolio Website](https://personal-portfolio-5dl1.onrender.com/)
+- 👯 I’m looking to collaborate on  **InstaMitr**
 
 - 🤝 I’m looking for help with [InstaMitr](https://github.com/vikasdewan/instaMitr-Frontend)
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-5dl1.onrender.com/](https://personal-portfolio-5dl1.onrender.com/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://portfoliovikasdewangandev.vercel.app/)
 
-- 💬 Ask me about **MERN Stack,DSA**
+- 💬 Ask me about **MERN Stack,DSA in Java**
 
-- 📫 How to reach me **dewanganvikas152003@gmail.com**
+- 📫 How to reach me **dewanganvikas192@gmail.com**
 
-- 📄 Know about my experiences [https://vikasdewanganresume15.tiiny.site/](https://vikasdewanganresume15.tiiny.site/)
+- 📄 Know about my experiences [Resume]([https://vikasdewanganresume15.tiiny.site/](https://drive.google.com/file/d/1LP0hvOazoApsAa-bdhHrxZKOEzwyiBjm/view?usp=sharing))
 
 - ⚡ Fun fact **Vikas means "Development"**
 
