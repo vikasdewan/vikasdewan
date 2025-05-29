@@ -99,12 +99,7 @@
 
 ---
 
-## 🔥 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vikasdewan/vikasdewan/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
+ 
 ---
 
 ## 🧠 Quote of the Day
