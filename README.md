@@ -20,12 +20,12 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently working on: **My New Portfolio Website**
-- 👨‍💻 All my projects: [Portfolio](https://portfoliovikasdewangandev.vercel.app/)
+- 👨‍💻 All my projects: [Portfolio](https://vikasportfoliodev.vercel.app/)
 - 💬 Ask me about: **MERN Stack, Java, DSA**
 - 🌱 Currently learning: **TypeScript**
-- 👯 Looking to collaborate on: [InstaMitr](https://github.com/vikasdewan/instaMitr-Frontend)
+- 👯 Looking to collaborate on: [InstaMitr](https://instamitr-deploy-1.onrender.com/)
 - 📫 Reach me at: **dewanganvikas192@gmail.com**
-- 📄 My Resume: [Google Drive Link](https://drive.google.com/file/d/1LP0hvOazoApsAa-bdhHrxZKOEzwyiBjm/view?usp=sharing)
+- 📄 My Resume: [Google Drive Link](https://drive.google.com/file/d/1tSHX27srJWK6nVbwUV2O7HbBryqmVxUg/view?usp=sharing)
 - ⚡ Fun Fact: **"Vikas means Development" — it's in my name 😄**
 
 ---
