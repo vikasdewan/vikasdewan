@@ -112,8 +112,8 @@
 
 ## 💥 Featured Projects
 
-- 🚀 [InstaMitr - Auto Comment DM Tool](https://github.com/vikasdewan/instaMitr-Frontend)
-- 🌐 [Portfolio Website](https://portfoliovikasdewangandev.vercel.app/)
+- 🚀 [InstaMitrdd](https://instamitr-deploy-1.onrender.com/)
+- 🌐 [Portfolio Website](https://vikasportfoliodev.vercel.app/)
 - 💼 More on GitHub...
 
 ---
