@@ -1,7 +1,7 @@
 <!-- Profile README by Vikas Dewangan -->
 
 <p align="center">
-  <img src="/bannerNew.png" alt="Vikas Dewangan Banner" style="width:100%; border-radius: 10px; height:200px" />
+  <img src="/bannerNew.png" alt="Vikas Dewangan Banner" style="width:100%; border-radius: 10px; height:100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#4F8A8B">Vikas Dewangan</span></h1>
