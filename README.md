@@ -25,7 +25,7 @@
 - 🌱 Currently learning: **TypeScript**
 - 👯 Looking to collaborate on: [InstaMitr](https://instamitr-deploy-1.onrender.com/)
 - 📫 Reach me at: **dewanganvikas192@gmail.com**
-- 📄 My Resume: [Google Drive Link](https://drive.google.com/file/d/1tSHX27srJWK6nVbwUV2O7HbBryqmVxUg/view?usp=sharing)
+- 📄 My Resume: [RESUME LINK](https://drive.google.com/file/d/1h1MGYfWFePSGwZCu2rlVQbdY_GA_50CB/view?usp=sharing)
 - ⚡ Fun Fact: **"Vikas means Development" — it's in my name 😄**
 
 ---
