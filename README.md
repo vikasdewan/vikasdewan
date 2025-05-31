@@ -8,7 +8,7 @@
 <h3 align="center">🚀 Passionate Full Stack Web Developer (MERN) | Tech Enthusiast | Innovator from Chhattisgarh, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&color=40C9FF&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Expert;Java+%7C+DSA+Lover;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&color=40C9FF&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Expert;Java+%7C+DSA+Lover;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
