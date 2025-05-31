@@ -112,7 +112,7 @@
 
 ## 💥 Featured Projects
 
-- 🚀 [InstaMitrdd](https://instamitr-deploy-1.onrender.com/)
+- 🚀 [InstaMitr](https://instamitr-deploy-1.onrender.com/)
 - 🌐 [Portfolio Website](https://vikasportfoliodev.vercel.app/)
 - 💼 More on GitHub...
 
