@@ -4,7 +4,7 @@
   <img src="/realBanner.png" alt="Vikas Dewangan Banner" style="width:100%; border-radius: 10px; height:100%" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#4F8A8B">Vikas Dewangan</span></h1>
+<h1 align=" center ">Hi there 👋, I'm <span style="color:#4F8A8B">Vikas Dewangan</span></h1>
 <h3 align="center">🚀 Passionate Full Stack Web Developer (MERN) | Tech Enthusiast | Innovator from Chhattisgarh, India</h3>
 
 <p align="center">
