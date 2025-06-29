@@ -28,6 +28,21 @@
 - 📄 My Resume: [RESUME LINK](https://drive.google.com/file/d/1h1MGYfWFePSGwZCu2rlVQbdY_GA_50CB/view?usp=sharing)
 - ⚡ Fun Fact: **"Vikas means Development" — it's in my name 😄**
 
+
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasdewan&theme=radical&hide_border=true" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=vikasdewan&show_icons=true&theme=radical&count_private=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasdewan&layout=compact&theme=radical&langs_count=10" /> -->
+</p>
+
+
 ---
 
 ## 🛠️ Tech Stack
@@ -77,16 +92,7 @@
   </a>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasdewan&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasdewan&show_icons=true&theme=radical&count_private=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasdewan&layout=compact&theme=radical&langs_count=10" />
-</p>
 
 ---
 
